@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Acess Main Website
-Acess siteL https://tensorflowlayer.s3.us-east-2.amazonaws.com/index.html
+Acess site: https://tensorflowlayer.s3.us-east-2.amazonaws.com/index.html
 
 # Getting Started with Create React App
 
